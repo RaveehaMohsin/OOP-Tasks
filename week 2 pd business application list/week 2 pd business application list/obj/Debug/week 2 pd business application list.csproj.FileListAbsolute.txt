@@ -1,0 +1,7 @@
+C:\OOP 2nd Semester\week 2 pd business application list\week 2 pd business application list\obj\Debug\week 2 pd business application list.csproj.AssemblyReference.cache
+C:\OOP 2nd Semester\week 2 pd business application list\week 2 pd business application list\obj\Debug\week 2 pd business application list.csproj.CoreCompileInputs.cache
+C:\OOP 2nd Semester\week 2 pd business application list\week 2 pd business application list\bin\Debug\week 2 pd business application list.exe.config
+C:\OOP 2nd Semester\week 2 pd business application list\week 2 pd business application list\bin\Debug\week 2 pd business application list.exe
+C:\OOP 2nd Semester\week 2 pd business application list\week 2 pd business application list\bin\Debug\week 2 pd business application list.pdb
+C:\OOP 2nd Semester\week 2 pd business application list\week 2 pd business application list\obj\Debug\week 2 pd business application list.exe
+C:\OOP 2nd Semester\week 2 pd business application list\week 2 pd business application list\obj\Debug\week 2 pd business application list.pdb
