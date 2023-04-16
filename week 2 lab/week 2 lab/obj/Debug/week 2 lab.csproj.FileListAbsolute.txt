@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\week 2 lab\week 2 lab\obj\Debug\week 2 lab.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\week 2 lab\week 2 lab\obj\Debug\week 2 lab.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\week 2 lab\week 2 lab\bin\Debug\week 2 lab.exe.config
+C:\Users\DELL\source\repos\week 2 lab\week 2 lab\bin\Debug\week 2 lab.exe
+C:\Users\DELL\source\repos\week 2 lab\week 2 lab\bin\Debug\week 2 lab.pdb
+C:\Users\DELL\source\repos\week 2 lab\week 2 lab\obj\Debug\week 2 lab.exe
+C:\Users\DELL\source\repos\week 2 lab\week 2 lab\obj\Debug\week 2 lab.pdb
