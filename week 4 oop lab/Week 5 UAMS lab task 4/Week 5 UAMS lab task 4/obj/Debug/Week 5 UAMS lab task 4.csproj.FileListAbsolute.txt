@@ -1,0 +1,7 @@
+D:\OOP 2nd Semester\week 4 oop lab\Week 5 UAMS lab task 4\Week 5 UAMS lab task 4\bin\Debug\Week 5 UAMS lab task 4.exe.config
+D:\OOP 2nd Semester\week 4 oop lab\Week 5 UAMS lab task 4\Week 5 UAMS lab task 4\bin\Debug\Week 5 UAMS lab task 4.exe
+D:\OOP 2nd Semester\week 4 oop lab\Week 5 UAMS lab task 4\Week 5 UAMS lab task 4\bin\Debug\Week 5 UAMS lab task 4.pdb
+D:\OOP 2nd Semester\week 4 oop lab\Week 5 UAMS lab task 4\Week 5 UAMS lab task 4\obj\Debug\Week 5 UAMS lab task 4.csproj.AssemblyReference.cache
+D:\OOP 2nd Semester\week 4 oop lab\Week 5 UAMS lab task 4\Week 5 UAMS lab task 4\obj\Debug\Week 5 UAMS lab task 4.csproj.CoreCompileInputs.cache
+D:\OOP 2nd Semester\week 4 oop lab\Week 5 UAMS lab task 4\Week 5 UAMS lab task 4\obj\Debug\Week 5 UAMS lab task 4.exe
+D:\OOP 2nd Semester\week 4 oop lab\Week 5 UAMS lab task 4\Week 5 UAMS lab task 4\obj\Debug\Week 5 UAMS lab task 4.pdb
