@@ -1,0 +1,7 @@
+D:\OOP 2nd Semester\week 5 oop lab UAMS task 1(without multiple classes)\week 5 oop lab UAMS task 1(without multiple classes)\bin\Debug\week 5 oop lab UAMS task 1(without multiple classes).exe.config
+D:\OOP 2nd Semester\week 5 oop lab UAMS task 1(without multiple classes)\week 5 oop lab UAMS task 1(without multiple classes)\bin\Debug\week 5 oop lab UAMS task 1(without multiple classes).exe
+D:\OOP 2nd Semester\week 5 oop lab UAMS task 1(without multiple classes)\week 5 oop lab UAMS task 1(without multiple classes)\bin\Debug\week 5 oop lab UAMS task 1(without multiple classes).pdb
+D:\OOP 2nd Semester\week 5 oop lab UAMS task 1(without multiple classes)\week 5 oop lab UAMS task 1(without multiple classes)\obj\Debug\week 5 oop lab UAMS task 1(without multiple classes).csproj.AssemblyReference.cache
+D:\OOP 2nd Semester\week 5 oop lab UAMS task 1(without multiple classes)\week 5 oop lab UAMS task 1(without multiple classes)\obj\Debug\week 5 oop lab UAMS task 1(without multiple classes).csproj.CoreCompileInputs.cache
+D:\OOP 2nd Semester\week 5 oop lab UAMS task 1(without multiple classes)\week 5 oop lab UAMS task 1(without multiple classes)\obj\Debug\week 5 oop lab UAMS task 1(without multiple classes).exe
+D:\OOP 2nd Semester\week 5 oop lab UAMS task 1(without multiple classes)\week 5 oop lab UAMS task 1(without multiple classes)\obj\Debug\week 5 oop lab UAMS task 1(without multiple classes).pdb
