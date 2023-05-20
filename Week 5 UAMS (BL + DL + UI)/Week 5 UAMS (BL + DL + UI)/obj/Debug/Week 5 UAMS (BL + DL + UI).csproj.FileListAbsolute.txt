@@ -1,0 +1,7 @@
+D:\OOP 2nd Semester\Week 5 UAMS (BL + DL + UI)\Week 5 UAMS (BL + DL + UI)\bin\Debug\Week 5 UAMS (BL + DL + UI).exe.config
+D:\OOP 2nd Semester\Week 5 UAMS (BL + DL + UI)\Week 5 UAMS (BL + DL + UI)\bin\Debug\Week 5 UAMS (BL + DL + UI).exe
+D:\OOP 2nd Semester\Week 5 UAMS (BL + DL + UI)\Week 5 UAMS (BL + DL + UI)\bin\Debug\Week 5 UAMS (BL + DL + UI).pdb
+D:\OOP 2nd Semester\Week 5 UAMS (BL + DL + UI)\Week 5 UAMS (BL + DL + UI)\obj\Debug\Week 5 UAMS (BL + DL + UI).csproj.AssemblyReference.cache
+D:\OOP 2nd Semester\Week 5 UAMS (BL + DL + UI)\Week 5 UAMS (BL + DL + UI)\obj\Debug\Week 5 UAMS (BL + DL + UI).csproj.CoreCompileInputs.cache
+D:\OOP 2nd Semester\Week 5 UAMS (BL + DL + UI)\Week 5 UAMS (BL + DL + UI)\obj\Debug\Week 5 UAMS (BL + DL + UI).exe
+D:\OOP 2nd Semester\Week 5 UAMS (BL + DL + UI)\Week 5 UAMS (BL + DL + UI)\obj\Debug\Week 5 UAMS (BL + DL + UI).pdb
