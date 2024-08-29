@@ -1,0 +1,7 @@
+C:\OOP 2nd Semester\week 1 ooplab\week 1 ooplab\bin\Debug\week 1 ooplab.exe.config
+C:\OOP 2nd Semester\week 1 ooplab\week 1 ooplab\bin\Debug\week 1 ooplab.exe
+C:\OOP 2nd Semester\week 1 ooplab\week 1 ooplab\bin\Debug\week 1 ooplab.pdb
+C:\OOP 2nd Semester\week 1 ooplab\week 1 ooplab\obj\Debug\week 1 ooplab.csproj.AssemblyReference.cache
+C:\OOP 2nd Semester\week 1 ooplab\week 1 ooplab\obj\Debug\week 1 ooplab.csproj.CoreCompileInputs.cache
+C:\OOP 2nd Semester\week 1 ooplab\week 1 ooplab\obj\Debug\week 1 ooplab.exe
+C:\OOP 2nd Semester\week 1 ooplab\week 1 ooplab\obj\Debug\week 1 ooplab.pdb
