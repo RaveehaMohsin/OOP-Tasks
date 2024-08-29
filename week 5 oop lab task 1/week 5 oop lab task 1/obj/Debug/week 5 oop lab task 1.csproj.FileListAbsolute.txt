@@ -1,0 +1,7 @@
+D:\OOP 2nd Semester\week 5 oop lab task 1\week 5 oop lab task 1\bin\Debug\week 5 oop lab task 1.exe.config
+D:\OOP 2nd Semester\week 5 oop lab task 1\week 5 oop lab task 1\bin\Debug\week 5 oop lab task 1.exe
+D:\OOP 2nd Semester\week 5 oop lab task 1\week 5 oop lab task 1\bin\Debug\week 5 oop lab task 1.pdb
+D:\OOP 2nd Semester\week 5 oop lab task 1\week 5 oop lab task 1\obj\Debug\week 5 oop lab task 1.csproj.AssemblyReference.cache
+D:\OOP 2nd Semester\week 5 oop lab task 1\week 5 oop lab task 1\obj\Debug\week 5 oop lab task 1.csproj.CoreCompileInputs.cache
+D:\OOP 2nd Semester\week 5 oop lab task 1\week 5 oop lab task 1\obj\Debug\week 5 oop lab task 1.exe
+D:\OOP 2nd Semester\week 5 oop lab task 1\week 5 oop lab task 1\obj\Debug\week 5 oop lab task 1.pdb
