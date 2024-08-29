@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\week 2 lab store management system\week 2 lab store management system\obj\Debug\week 2 lab store management system.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\week 2 lab store management system\week 2 lab store management system\obj\Debug\week 2 lab store management system.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\week 2 lab store management system\week 2 lab store management system\bin\Debug\week 2 lab store management system.exe.config
+C:\Users\DELL\source\repos\week 2 lab store management system\week 2 lab store management system\bin\Debug\week 2 lab store management system.exe
+C:\Users\DELL\source\repos\week 2 lab store management system\week 2 lab store management system\bin\Debug\week 2 lab store management system.pdb
+C:\Users\DELL\source\repos\week 2 lab store management system\week 2 lab store management system\obj\Debug\week 2 lab store management system.exe
+C:\Users\DELL\source\repos\week 2 lab store management system\week 2 lab store management system\obj\Debug\week 2 lab store management system.pdb

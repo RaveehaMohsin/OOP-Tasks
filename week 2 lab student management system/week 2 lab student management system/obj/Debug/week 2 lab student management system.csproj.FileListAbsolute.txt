@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\week 2 lab student management system\week 2 lab student management system\bin\Debug\week 2 lab student management system.exe.config
+C:\Users\DELL\source\repos\week 2 lab student management system\week 2 lab student management system\bin\Debug\week 2 lab student management system.exe
+C:\Users\DELL\source\repos\week 2 lab student management system\week 2 lab student management system\bin\Debug\week 2 lab student management system.pdb
+C:\Users\DELL\source\repos\week 2 lab student management system\week 2 lab student management system\obj\Debug\week 2 lab student management system.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\week 2 lab student management system\week 2 lab student management system\obj\Debug\week 2 lab student management system.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\week 2 lab student management system\week 2 lab student management system\obj\Debug\week 2 lab student management system.exe
+C:\Users\DELL\source\repos\week 2 lab student management system\week 2 lab student management system\obj\Debug\week 2 lab student management system.pdb
