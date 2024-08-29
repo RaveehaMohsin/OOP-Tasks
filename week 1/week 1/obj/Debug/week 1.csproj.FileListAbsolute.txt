@@ -1,0 +1,11 @@
+C:\OOP 2nd Semester\week 1\week 1\bin\Debug\week 1.exe.config
+C:\OOP 2nd Semester\week 1\week 1\bin\Debug\week 1.exe
+C:\OOP 2nd Semester\week 1\week 1\bin\Debug\week 1.pdb
+C:\OOP 2nd Semester\week 1\week 1\obj\Debug\week 1.csproj.AssemblyReference.cache
+C:\OOP 2nd Semester\week 1\week 1\obj\Debug\week 1.csproj.CoreCompileInputs.cache
+C:\OOP 2nd Semester\week 1\week 1\obj\Debug\week 1.exe
+C:\OOP 2nd Semester\week 1\week 1\obj\Debug\week 1.pdb
+D:\OOP 2nd Semester\week 1\week 1\obj\Debug\week 1.csproj.AssemblyReference.cache
+D:\OOP 2nd Semester\week 1\week 1\obj\Debug\week 1.csproj.CoreCompileInputs.cache
+D:\OOP 2nd Semester\week 1\week 1\obj\Debug\week 1.exe
+D:\OOP 2nd Semester\week 1\week 1\obj\Debug\week 1.pdb
